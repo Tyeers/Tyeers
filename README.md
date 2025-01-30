@@ -14,7 +14,3 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tyeers&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=codeSTACKr" />
   </a>
 </div>
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Tyeers&theme=codestackr&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
-</p>
