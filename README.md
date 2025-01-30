@@ -2,7 +2,7 @@
   <img src="banner-GH.png" alt="Background Image" width="100%">
 </p>
 
-<h3 align="center">Junior Fullstack Webdev & Game Enthusiast</h3>
+<h3 align="center">Currently learning Nuxt 3, ExpressJS, TypeScript</h3>
 
 ---
 
