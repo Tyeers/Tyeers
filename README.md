@@ -2,7 +2,6 @@
   <img src="banner-GH.png" alt="Background Image" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Aqila Pasya H</h1>
 <h3 align="center">Junior Fullstack Webdev & Game Enthusiast</h3>
 
 ---
