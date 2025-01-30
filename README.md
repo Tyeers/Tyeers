@@ -6,10 +6,10 @@
 
 ---
 
-### <div align="center">
-  <span style="display: inline-block; width: 30%; border-top: 2px solid black; vertical-align: middle;"></span>
-  <span style="padding: 0 10px; font-weight: bold;">📊 My Stats</span>
-  <span style="display: inline-block; width: 30%; border-top: 2px solid black; vertical-align: middle;"></span>
+<div align="center">
+  <hr style="width: 30%; display: inline-block; border: none; border-top: 2px solid black; vertical-align: middle;">
+  <span style="padding: 0 15px; font-weight: bold; font-size: 1.2em;">📊 My Stats</span>
+  <hr style="width: 30%; display: inline-block; border: none; border-top: 2px solid black; vertical-align: middle;">
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -20,4 +20,3 @@
 </a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tyeers&theme=dark&short_numbers=true)](https://git.io/streak-stats)
-
