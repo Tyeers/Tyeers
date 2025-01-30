@@ -6,7 +6,7 @@
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <hr style="width: 30%; border: none; border-top: 2px solid black; margin: 0 10px;">
-  <span style="font-weight: bold; font-size: 3rem;">📊 My Stats</span>
+  <span style="font-weight: bold; font-size: 3rem;">## 📊 My Stats</span>
   <hr style="width: 30%; border: none; border-top: 2px solid black; margin: 0 10px;">
 </div>
 
@@ -21,6 +21,6 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Tyeers&theme=dark&short_numbers=true" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Tyeers&theme=codestackr&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
   </a>
 </p>
