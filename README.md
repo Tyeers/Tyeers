@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Touhou-2.jpg" alt="Background Image" width="100%">
+  <img src="banner-GH" alt="Background Image" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Aqila Pasya H</h1>
@@ -7,7 +7,11 @@
 
 ---
 
-### 📊 My Stats
+### <div align="center">
+  <span style="display: inline-block; width: 30%; border-top: 2px solid black; vertical-align: middle;"></span>
+  <span style="padding: 0 10px; font-weight: bold;">📊 My Stats</span>
+  <span style="display: inline-block; width: 30%; border-top: 2px solid black; vertical-align: middle;"></span>
+</div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Tyeers&show_icons=true&theme=radical" />
@@ -17,3 +21,4 @@
 </a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tyeers&theme=dark&short_numbers=true)](https://git.io/streak-stats)
+
