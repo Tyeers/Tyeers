@@ -4,11 +4,7 @@
 
 <h3 align="center">Currently learning Nuxt 3, ExpressJS, TypeScript</h3>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <hr style="width: 30%; border: none; border-top: 2px solid black; margin: 0 10px;">
-  <span style="font-weight: bold; font-size: 3rem;">📊 My Stats</span>
-  <hr style="width: 30%; border: none; border-top: 2px solid black; margin: 0 10px;">
-</div>
+<hr style="width: 30%; border: none; border-top: 2px solid black; margin: 0 10px;">
 
 <div justify-content:center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -20,7 +16,5 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Tyeers&theme=codestackr&hide_border=true&short_numbers=true" alt="GitHub Streak" />
-  </a>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tyeers&theme=codestackr&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 </p>
