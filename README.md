@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-GH" alt="Background Image" width="100%">
+  <img src="banner-GH.png" alt="Background Image" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Aqila Pasya H</h1>
