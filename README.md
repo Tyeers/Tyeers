@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="path/to/your/background/image.jpg" alt="Background Image" width="100%">
+  <img src="Touhou-2.jpg" alt="Background Image" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Aqila Pasya H</h1>
