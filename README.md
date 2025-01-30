@@ -6,7 +6,7 @@
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <hr style="width: 30%; border: none; border-top: 2px solid black; margin: 0 10px;">
-  <span style="font-weight: bold; font-size: 1.5em;">📊 My Stats</span>
+  <span style="font-weight: bold; font-size: 3rem;">📊 My Stats</span>
   <hr style="width: 30%; border: none; border-top: 2px solid black; margin: 0 10px;">
 </div>
 
