@@ -16,5 +16,5 @@
 </div>
 
 <p align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tyeers&theme=codestackr&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Tyeers&theme=codestackr&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 </p>
